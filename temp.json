@@ -1,0 +1,303 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=bruno+mars&offset=0&limit=20&type=artist&market=US",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 3551802
+      },
+      "genres" : [ "pop" ],
+      "href" : "https://api.spotify.com/v1/artists/0du5cEVh5yTK9QJze8zA0C",
+      "id" : "0du5cEVh5yTK9QJze8zA0C",
+      "images" : [ {
+        "height" : 500,
+        "url" : "https://i.scdn.co/image/f22774ca7d636e724164a65b2601ab39538a3aed",
+        "width" : 500
+      }, {
+        "height" : 200,
+        "url" : "https://i.scdn.co/image/9b0ac8d5ed8158cd2f00213d8b73e48fa49e63c8",
+        "width" : 200
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/131364fe54e48e36c39ec96eea47656855404f9b",
+        "width" : 64
+      } ],
+      "name" : "Bruno Mars",
+      "popularity" : 94,
+      "type" : "artist",
+      "uri" : "spotify:artist:0du5cEVh5yTK9QJze8zA0C"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2aGUnteqLSVKdfyYGzixl9"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 684
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/2aGUnteqLSVKdfyYGzixl9",
+      "id" : "2aGUnteqLSVKdfyYGzixl9",
+      "images" : [ ],
+      "name" : "Jaeson Ma featuring Bruno Mars",
+      "popularity" : 12,
+      "type" : "artist",
+      "uri" : "spotify:artist:2aGUnteqLSVKdfyYGzixl9"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7FQ1aQmO1oIStViqLdP7MD"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 13
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/7FQ1aQmO1oIStViqLdP7MD",
+      "id" : "7FQ1aQmO1oIStViqLdP7MD",
+      "images" : [ ],
+      "name" : "Beat Rabbi and Deepspace5, Playdough, Sev Statik, Illtripp, Listener, Manchild of Mars ILL, Sintax the Terrific, Freddie Bruno, Sivion, Blake Kilgore",
+      "popularity" : 1,
+      "type" : "artist",
+      "uri" : "spotify:artist:7FQ1aQmO1oIStViqLdP7MD"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3JdZTBCIL1VbNt8U1m6QPW"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 878
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/3JdZTBCIL1VbNt8U1m6QPW",
+      "id" : "3JdZTBCIL1VbNt8U1m6QPW",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/a2ac9f292bee9d118e6d66c8b784a942ffc5ec6e",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/03cadb9003b6451c855cdb1522bce4ce5e918106",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/cef67b365e7c2b1d1bbc26dc82b80977dd3a9748",
+        "width" : 64
+      } ],
+      "name" : "Bruno Mars Cover Band",
+      "popularity" : 14,
+      "type" : "artist",
+      "uri" : "spotify:artist:3JdZTBCIL1VbNt8U1m6QPW"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/28C2CsASI2YBDzcMbrebIH"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 33
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/28C2CsASI2YBDzcMbrebIH",
+      "id" : "28C2CsASI2YBDzcMbrebIH",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/004164cbe10089ebdd95643872d943b5350a8e6b",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/4a7050c27a1225ac2021a30eebe59daa9417f6a7",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/5ec70f607cdb8768958d612e74ce06772f743c06",
+        "width" : 64
+      } ],
+      "name" : "Bruno Mars Karaoke Band",
+      "popularity" : 8,
+      "type" : "artist",
+      "uri" : "spotify:artist:28C2CsASI2YBDzcMbrebIH"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3PUkeXvSs1089gRmDnEQhf"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 28
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/3PUkeXvSs1089gRmDnEQhf",
+      "id" : "3PUkeXvSs1089gRmDnEQhf",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ca4d118cacef02e37d7722a7f60ae7ccad12897a",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/1aaf2b393e929552d2f7b62980c4b57d3dd995ab",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/274688bbbf17c9ec2e2585e77e029929fd6eb3b5",
+        "width" : 64
+      } ],
+      "name" : "Tribute to Bruno Mars",
+      "popularity" : 15,
+      "type" : "artist",
+      "uri" : "spotify:artist:3PUkeXvSs1089gRmDnEQhf"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7Hfyvu6WCgn8aF7IBePAuu"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 7
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/7Hfyvu6WCgn8aF7IBePAuu",
+      "id" : "7Hfyvu6WCgn8aF7IBePAuu",
+      "images" : [ ],
+      "name" : "Bruno Mars Tribute",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:7Hfyvu6WCgn8aF7IBePAuu"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4WTd2AKe6B8kFFy7G70eIU"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 7
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/4WTd2AKe6B8kFFy7G70eIU",
+      "id" : "4WTd2AKe6B8kFFy7G70eIU",
+      "images" : [ ],
+      "name" : "Éxito De Bruno Mars",
+      "popularity" : 3,
+      "type" : "artist",
+      "uri" : "spotify:artist:4WTd2AKe6B8kFFy7G70eIU"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6FgUy8sHjwUIXiu088bwQH"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 35
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/6FgUy8sHjwUIXiu088bwQH",
+      "id" : "6FgUy8sHjwUIXiu088bwQH",
+      "images" : [ ],
+      "name" : "Made famous by Bruno Mars",
+      "popularity" : 11,
+      "type" : "artist",
+      "uri" : "spotify:artist:6FgUy8sHjwUIXiu088bwQH"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/64GtbSdbDS3hrY6IWVw9Rc"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 3
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/64GtbSdbDS3hrY6IWVw9Rc",
+      "id" : "64GtbSdbDS3hrY6IWVw9Rc",
+      "images" : [ ],
+      "name" : "Made famous by Bad meets evil feat Bruno Mars",
+      "popularity" : 5,
+      "type" : "artist",
+      "uri" : "spotify:artist:64GtbSdbDS3hrY6IWVw9Rc"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3m4vslPQ5spKhRAXsLP6PN"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 15
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/3m4vslPQ5spKhRAXsLP6PN",
+      "id" : "3m4vslPQ5spKhRAXsLP6PN",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/7a7dad2a23c82ee4423e854ca106b9d171a28aca",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/62f8747223e9286d7bca361220fbd0d9535fe95e",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/cedb1b066b767bb4fb05e9aac1f1b15c3f998452",
+        "width" : 64
+      } ],
+      "name" : "Bad meets evil feat Bruno Mars Karaoke Band",
+      "popularity" : 5,
+      "type" : "artist",
+      "uri" : "spotify:artist:3m4vslPQ5spKhRAXsLP6PN"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0mnLNgQZmFntXbxt48z6JK"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 1160
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/0mnLNgQZmFntXbxt48z6JK",
+      "id" : "0mnLNgQZmFntXbxt48z6JK",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/7f12f2fa1f6282041d77f3ffe61fca7cd6f87579",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/5a443b8ced5ddd7f9863ca0b7a92426328753144",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/c720aeeab98c5596875b9b250d52ca3ecb9459a1",
+        "width" : 64
+      } ],
+      "name" : "Young, Wild & Free (Snoop Dogg, Wiz Khalifa & Bruno Mars Tribute) [Karaoke]",
+      "popularity" : 10,
+      "type" : "artist",
+      "uri" : "spotify:artist:0mnLNgQZmFntXbxt48z6JK"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/709PHGs9WIRnShpd8M1Gbj"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 50
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/709PHGs9WIRnShpd8M1Gbj",
+      "id" : "709PHGs9WIRnShpd8M1Gbj",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/a52840c7b4031bfbc5d93601040f537ab4a9facf",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/7e03a9f23ee0ae5d8e2d7991864b6f7410ea5583",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/27dff3260cc559f0f64fcbccdda59fc1eda1409e",
+        "width" : 64
+      } ],
+      "name" : "Bruno Mars Karaoke's Band",
+      "popularity" : 6,
+      "type" : "artist",
+      "uri" : "spotify:artist:709PHGs9WIRnShpd8M1Gbj"
+    } ],
+    "limit" : 20,
+    "next" : null,
+    "offset" : 0,
+    "previous" : null,
+    "total" : 13
+  }
+}

@@ -1,0 +1,50 @@
+body {
+	background-color: #000000;
+	color: #FFFFFF;
+}
+
+.container {
+	padding: 20px;
+}
+
+.query-input {
+	margin-bottom: 15px;
+	color: #000000;
+}
+
+.main-title {
+	margin-bottom: 35px;
+}
+
+.search-button {
+	color: #000000;
+}
+
+.img-frame {
+	position: relative;
+	height: 300px;
+	width: 300px;
+}
+
+.artist-img {
+	position: absolute;
+	max-height: 300px;
+	max-width: 300px;
+	left: 0;
+	right: 0;
+	top: 0;
+	bottom: 0;
+	margin: auto;
+	/*padding: 10px;
+	margin: 10px;*/
+}
+
+.artist-name {
+	padding-left: 80px;
+	padding-right: 30px;
+	min-height: 40px;
+}
+
+#myModal {
+	color: #000000;
+}
